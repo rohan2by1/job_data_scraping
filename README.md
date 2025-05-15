@@ -48,4 +48,3 @@ Contributions are welcome! Here's how you can contribute:
 ## Last Updated 📅
 
 2025-03-25
-```
