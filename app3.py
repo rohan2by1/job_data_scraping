@@ -16,7 +16,7 @@ options.add_argument("--disable-gpu")
 options.add_argument("--window-size=1280,720")
 
 # MongoDB Connection
-client = MongoClient('mongodb+srv://rohan2by1:cecMwXq5XCUkaWw2@cluster0.munr4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+client = MongoClient('mongodb+srv://rohaXCUkaWw2@cluster0.munr4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
 db = client['job_scraper_db']
 collection = db['job_listings']
 
